@@ -30,7 +30,6 @@ MANIFEST
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # Dataset (large files)
 Dataset/
